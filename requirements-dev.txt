@@ -1,0 +1,11 @@
+pylint
+fastapi
+requests
+aiofiles
+jinja2
+python-multipart
+itsdangerous
+pyyaml
+graphene
+ujson
+

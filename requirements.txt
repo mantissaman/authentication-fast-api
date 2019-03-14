@@ -1,0 +1,13 @@
+pylint
+fastapi
+redis
+email_validator
+requests
+aiofiles
+jinja2
+python-multipart
+itsdangerous
+pyyaml
+graphene
+ujson
+
